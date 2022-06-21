@@ -6,5 +6,7 @@ The website I created is about online medical store that has up-to-date informat
 A static website that is about online medical store.
 Designed using HTML5, CSS3, JS , Azure(Static web app, web app)
 
+#Home page
+![Screenshot (1055)](https://user-images.githubusercontent.com/84828933/174812516-f42347ce-9591-4999-a2c5-00325f44ea4b.png)
 #azure link 
 https://gray-sea-0d0f76810.1.azurestaticapps.net/
