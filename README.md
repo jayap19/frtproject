@@ -22,5 +22,5 @@ Designed using HTML5, CSS3, JS , Azure(Static web app, web app)
 ![Screenshot (1059)](https://user-images.githubusercontent.com/84828933/174815641-3b8001c1-8159-4f21-bbfd-bab0943adb15.png)
 
 
-# Project link 
+# Project Demo link 
 https://gray-sea-0d0f76810.1.azurestaticapps.net/
