@@ -13,6 +13,9 @@ Designed using HTML5, CSS3, JS , Azure(Static web app, web app)
 ![Screenshot (1056)](https://user-images.githubusercontent.com/84828933/174814122-374f359f-593b-41b2-a731-026d76d18399.png)
 
 # Online buy
+![Screenshot (1057)](https://user-images.githubusercontent.com/84828933/174814536-d7ccaa44-d146-4c79-bdd7-5aefdef3c22f.png)
+
+#Contact Us
 
 #azure link 
 https://gray-sea-0d0f76810.1.azurestaticapps.net/
